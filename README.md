@@ -1,6 +1,7 @@
 # Git leaks
 ## Archivos
 - git_leaks.py: fichero de python que incluye un código que obtiene los commits del repositorio adjunto.
+- git_leaks_to_json.py: fichero de python que incluye el código que convierte el diccionario de commits a json.
 - skale-manager: carpeta que contiene un repositorio clonado en el que se ejercerán las búsquedas de los commits.
 - requirements.txt: fichero de texto que contiene las librerías necesarias y sus versiones para la ejecución del script.
 
